@@ -1,6 +1,7 @@
+import dotenv from 'dotenv';
 const mongoose = require('mongoose');
 
-let mongoDB = ;
+let mongoDB = process.env.MONGO_URI;
 
 ////EXAMPLE////
 // Make sure to create .env file and use an environment variable
