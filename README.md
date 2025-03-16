@@ -21,12 +21,3 @@ the most simple example
  ```
 7. run npm test
 8. commit and push
-9. Bonus(optional) - use fireEvent, waitFor 
-
-On GitHub
-10. Create new workflow to run the test on PR to main
-11. Make a PR to confirm the test runs on PR
-12. Take a screenshot of the page showing the 'Test Passed'
-12. Make sure it's merged to main
-
-13. Submit the screenshot and a short comment about this exercise
